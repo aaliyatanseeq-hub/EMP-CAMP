@@ -1,6 +1,5 @@
 import { prisma } from '@/lib/prisma'
 import InboxClient from '@/components/inbox/inbox-client'
-import { InboxIcon, MailIcon, MailOpenIcon } from 'lucide-react'
 
 export const dynamic = 'force-dynamic'
 
