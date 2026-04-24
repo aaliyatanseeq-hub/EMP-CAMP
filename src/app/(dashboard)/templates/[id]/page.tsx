@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { prisma } from '@/lib/prisma'
 import { TemplateForm } from '@/components/templates/template-form'
 import { redirect } from 'next/navigation'
