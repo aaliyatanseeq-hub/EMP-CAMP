@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { prisma } from '@/lib/prisma'
 import { HistoryTable } from '@/components/history/history-table'
 import { MailIcon } from 'lucide-react'
